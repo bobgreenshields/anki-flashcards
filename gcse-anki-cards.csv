@@ -1,57 +1,56 @@
-GPE =,GPE = mgh,mass * gravity strength * height,Physics
-Potential difference (volts) =,V = IR,current * resistance,Physics
-Charge =,Q = It,current * time,Physics
-Power =,P = IV,current * voltage,Physics
-Efficiency(%) =,useful energy output / energy input * 100,,Physics
-Work done =,W = fd,force * distance moved,Physics
-Wave speed =,v = fw,frequency * wavelength,Physics
-What colour is the live wire in a plug?,brown,,Physics
-What colour is the neutral wire in a plug?,blue,,Physics
-What colour is the earth wire in a plug?,Green & yellow stripes,,Physics
-Speed =,s = d/t,distance / time,Physics
-Difference between speed and velocity?,velocity has direction,,Physics
-Acceleration =,change in velocity / time taken,,Physics
-What is a force?,a push or a pull,,Physics
-Stopping distance =,thinking distance + breaking distance,,Physics
-Kinetic energy =,KE = ½mv²,½ * mass * velocity squared,Physics
-Pressure =,P = f/A,force / area,Physics
-When did WW1 end?,September 1918,,History
-When was the Spartacist uprising?,January 1919,,History
-When was Kapp Putsch?,March 1920,,History
-Name the 3 crises of 1923?,"Ruhr occupation + hyperinflation + Beer hall Putsch",,History
-When did Great Depression start,October 1929,,History
-When was the German Revolution,November 1918,,History
-When was the Treaty of Versailles,June 1919,,History
-When was the Great Inflation,Summer 1923,,History
-When did Hitler become Chancellor,January 1933,,History
-When did Nazis begin the mass slaughter of the Jews,Aug 1942,,History
-When did Germany start building its empire,1880s,,History
-When did Willhelm become Kaiser,1888,,History
-What were Willhelm's characteristics?,militaristic + ambitious for Germany,didn't share power with Bismark,History
-Kaiser quote by A.N. Davis?,The only nations which have progressed and become great are warring mations.  Those which have not been ambitious and gone to war have been nothing.,,History
-Assessment of Willhelm by Bismark?,The Kaiser is like a balloon... if you don't keep hold of the string you'll never know where he will be off to.,,History
-What happened when naval commanders mutinied, 25 Oct 1918 Kaiser and govt. did not send in the army to stop it,,History
-What happened 1-5 Nov 1918,strikes and demonstrations,army mutinies,History
-What happened 6 Nov 1918,soldiers' and workers' councils take over many cities,,History
-What happened 7 Nov 1918,Social Democrats issue abdication ultimation,,History
-What happened 9 Nov 1918,Social Democrats announce abdication to prevent revolution,,History
-What happened 10 Nov 1918,Kaiser Willhelm fled into exile in Holland,,History
-What happened 11 Nov 1918,armistice agreed between Germany and Allies,,History
-What were the two main factions post German Revolution,Social Democrats and Spartacus League,,History
-Who was Rosa Luxemburg,fled Poland to Germany in 1898 and united left wing under Spartacists,,History
-How did Social Democrats keep control after revolution,suppport from army (Gen. Groener),Freikorps,History
-Who were the Freikorps,organised ex-soldiers supporting Social Democrats post revolution,,History
-When was the Spartacist uprising,5 Jan 1919,,History
-What did the Spartacists capture,govt. newspaper and telegraph burerau,,History
-What was the result of the Spartacist uprising,Spartacists crushed + communist supporters killed + Rosa Luxemburg and Karl Liebknecht murdered,,History
-How large were the reparations in the Versailles treaty,£6600 million (1921),,History
-What were the military restrictions in the Versailles treaty,no airforce + 100k soldiers + 1500 sailors 6 battleships 0 subs,Rheinland occupied then DMZ,History
-What were the territorial losses in the Versailles treaty,lost 13% land + 6 mio people,,History
-What was the Kapp Putsch,Mar 1920 Wolfgang Putsch marched Freikorps into Berlin & took the govt.,Army did nothing,History
-Why did the Kapp Putsch fail,very successful general strike by Social Democrats,,History
-What was Article 48,in emergency President can make laws without Reichstag,Weimar constitution,History
-What rights did Weimar constitution give Germans,equal rights to all including voting,,History
-Why did the French occupy the Ruhr,because Germany failed to make reparation payments,,History
-How did Stresemann solve hyperinflation,he made a new currency,strictly limitted amount of currency,History
-When did Hindenburg get elected,1925,,History
-When did Germany join the league of nations,1926,,History
+GPE =|GPE = mgh|mass * gravity strength * height|Physics Potential difference (volts) =|V = IR|current * resistance|Physics
+Charge =|Q = It|current * time|Physics
+Power =|P = IV|current * voltage|Physics
+Efficiency(%) =|useful energy output / energy input * 100||Physics
+Work done =|W = fd|force * distance moved|Physics
+Wave speed =|v = fw|frequency * wavelength|Physics
+What colour is the live wire in a plug?|brown||Physics
+What colour is the neutral wire in a plug?|blue||Physics
+What colour is the earth wire in a plug?|Green & yellow stripes||Physics
+Speed =|s = d/t|distance / time|Physics
+Difference between speed and velocity?|velocity has direction||Physics
+Acceleration =|change in velocity / time taken||Physics
+What is a force?|a push or a pull||Physics
+Stopping distance =|thinking distance + breaking distance||Physics
+Kinetic energy =|KE = ½mv²|½ * mass * velocity squared|Physics
+Pressure =|P = f/A|force / area|Physics
+When did WW1 end?|September 1918||History
+When was the Spartacist uprising?|January 1919||History
+When was Kapp Putsch?|March 1920||History
+Name the 3 crises of 1923?|"Ruhr occupation, hyperinflation, Beer hall Putsch"||History
+When did Great Depression start|October 1929||History
+When was the German Revolution|November 1918||History
+When was the Treaty of Versailles|June 1919||History
+When was the Great Inflation|Summer 1923||History
+When did Hitler become Chancellor|January 1933||History
+When did Nazis begin the mass slaughter of the Jews|Aug 1942||History
+When did Germany start building its empire|1880s||History
+When did Willhelm become Kaiser|1888||History
+What were Willhelm's characteristics?|militaristic, ambitious for Germany|didn't share power with Bismark|History
+Kaiser quote by A.N. Davis?|The only nations which have progressed and become great are warring mations.  Those which have not been ambitious and gone to war have been nothing.||History
+Assessment of Willhelm by Bismark?|The Kaiser is like a balloon... if you don't keep hold of the string, you'll never know where he will be off to.||History
+What happened when naval commanders mutinied| 25 Oct 1918 Kaiser and govt. did not send in the army to stop it||History
+What happened 1-5 Nov 1918|strikes and demonstrations|army mutinies|History
+What happened 6 Nov 1918|soldiers' and workers' councils take over many cities||History
+What happened 7 Nov 1918|Social Democrats issue abdication ultimation||History
+What happened 9 Nov 1918|Social Democrats announce abdication to prevent revolution||History
+What happened 10 Nov 1918|Kaiser Willhelm fled into exile in Holland||History
+What happened 11 Nov 1918|armistice agreed between Germany and Allies||History
+What were the two main factions post German Revolution|Social Democrats and Spartacus League||History
+Who was Rosa Luxemburg|fled Poland to Germany in 1898 and united left wing under Spartacists||History
+How did Social Democrats keep control after revolution|suppport from army (Gen. Groener)|Freikorps|History
+Who were the Freikorps|organised ex-soldiers supporting Social Democrats post revolution||History
+When was the Spartacist uprising|5 Jan 1919||History
+What did the Spartacists capture|govt. newspaper and telegraph burerau||History
+What was the result of the Spartacist uprising|Spartacists crushed, communist supporters killed|Rosa Luxemburg and Karl Liebknecht murdered|History
+How large were the reparations in the Versailles treaty|£6600 million (1921)||History
+What were the military restrictions in the Versailles treaty|no airforce, 100k soldiers, 1500 sailors 6 battleships 0 subs|Rheinland occupied then DMZ|History
+What were the territorial losses in the Versailles treaty|lost 13% land, 6 mio people||History
+What was the Kapp Putsch|Mar 1920 Wolfgang Putsch marched Freikorps into Berlin & took the govt.|Army did nothing|History
+Why did the Kapp Putsch fail|very successful general strike by Social Democrats||History
+What was Article 48|in emergency President can make laws without Reichstag|Weimar constitution|History
+What rights did Weimar constitution give Germans|equal rights to all including voting||History
+Why did the French occupy the Ruhr|because Germany failed to make reparation payments||History
+How did Stresemann solve hyperinflation|he made a new currency|strictly limitted amount of currency|History
+When did Hindenburg get elected|1925||History
+When did Germany join the league of nations|1926||History
