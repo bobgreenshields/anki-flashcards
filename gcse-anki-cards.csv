@@ -1,7 +1,7 @@
 GPE =;GPE = mgh;mass * gravity strength * height;Physics
 Potential difference (volts) =;V = IR;current * resistance;Physics
 Charge =;Q = It;current * time;Physics
-Power =;P = IV;current * voltage;Physics
+Elec. Power =;P = IV;current * voltage;Physics
 Efficiency(%) =;useful energy output / energy input * 100;;Physics
 Work done =;W = fd;force * distance moved;Physics
 Wave speed =;v = fw;frequency * wavelength;Physics
@@ -51,7 +51,7 @@ Why did the Kapp Putsch fail;very successful general strike by Social Democrats;
 What was Article 48;in emergency President can make laws without Reichstag;Weimar constitution;History
 What rights did Weimar constitution give Germans;equal rights to all including voting;;History
 Why did the French occupy the Ruhr;because Germany failed to make reparation payments;;History
-How did Stresemann solve hyperinflation;he made a new currency;strictly limitted amount of currency;History
+How did Stresemann solve hyperinflation;he made a new currency;strictly limited amount of currency;History
 When did Hindenburg get elected;1925;;History
 When did Germany join the league of nations;1926;;History
 4E7 * 2E4=;8E11;;Maths
@@ -103,7 +103,7 @@ Why did the Munich Putsch fail;the police fired on the protesters, they fired ba
 When was Hitler's trial;Feb 1924;;History
 How did Hitler use his trial to his advantage;he used it as a platform to speak;;History
 How long was Hitler's sentence;5 years;but he served less than 9 months;History
-What did Hitler so in prison;he wrote Mein Kampf;;History
+What did Hitler do in prison;he wrote Mein Kampf;;History
 Why did Hitler say that it was good the Putsch collapsed;because General Lundendorf was difficult to co-operate with;created effective propoganda;History
 How did the Nazis want to gain power in 1924;to be voted in;;History
 Which message did the Nazis find most affected the working class;anti-semitism;;History
