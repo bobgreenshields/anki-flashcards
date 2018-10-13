@@ -1,2 +1,2 @@
-# gcse-flashcards-bryn
-Bryn's gcse  flashcards for Anki
+# anki-flashcards
+Flashcards for Anki
