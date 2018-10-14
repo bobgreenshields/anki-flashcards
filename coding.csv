@@ -53,3 +53,27 @@ normalise all split sizes;<c-W>=;;vim
 swap top/bottom, left/right splits;<c-w> r;;vim
 close every split but the current one;<c-W> o;;vim
 remove highlighting;<c-l> l;;vim
+turn on spelling;:set spell;;vim
+turn on spelling for this buffer;:setlocal spell;;vim
+move forwards through highlighted words;]s;;vim
+move forwards through bad words;]S;;vim
+move backwards through highlighted words;]s;;vim
+move backwards through bad words;[S;;vim
+add word to temp. good word list;zG;;vim
+suggest spelling corrections;z=;;vim
+take first spelling correction suggestion;z=1;;vim
+auto-complete spelling;<c-x> s;;vim
+search for word under cursor;*;;vim
+switch case under cursor;~;;vim
+switch case of line;~~;;vim
+switch case of motion;g~{motion};;vim
+uppercase of motion;gU{motion};;vim
+lowercase of motion;gu{motion};;vim
+uppercase line;gUU;;vim
+lowercase line;guu;;vim
+insert mode: delete back one word;<c-w>;;vim
+insert mode: delete back to start of line;<c-u>;;vim
+insert mode: return to normal mode;esc or <c-[>;;vim
+insert mode: give one normal mode cmd and return to insert;<c-o> normal mode command;;vim
+insert mode: move to middle of screen and continue to insert;<c-o>zz;;vim
+insert mode: paste from a register;<c-r>"x;;vim
