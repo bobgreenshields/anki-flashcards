@@ -1,5 +1,56 @@
-Ultisnips complete;tab;;Vim::Ultisnips
-Ultisnips list snippets;F3;default <c-tab>;Vim::Ultisnips
-Ultisnips jump fwd;<c-j>;;Vim::Ultisnips
-Ultisnips jump backward;<c-k>;;Vim::Ultisnips
-Ultisnips edit snippets;:UltiSnipsEdit;;Vim::Ultisnips
+complete snippet;tab;;vim::Ultisnips
+list snippets;F3;default <c-tab>;vim::Ultisnips
+jump fwd in snippets;<c-j>;;vim::Ultisnips
+jump backward in snippets;<c-k>;;vim::Ultisnips
+edit snippets;:UltiSnipsEdit;;vim::Ultisnips
+what's the last yank register;0
+what's the last delete register;"
+what's the last search register;/
+change inner word;ciw;;vim
+change inner indentation;cii;;vim
+change inner sentence;cis;;vim
+change inner line;cil;;vim
+change inner ruby block;cir;;vim
+change all ruby block;car;;vim
+change inner paragraph;cip;;vim
+check plugin status;:PlugInstall;;vim::vim-plug
+install plugins;:PlugInstall;;vim::vim-plug
+update plugins;:PlugUpdate;;vim::vim-plug
+add single quotes around a word;ysiw';;vim
+add double quotes around a word;ysiw";;vim
+add parenthesis around a word;ysiw);;vim
+add parenthesis with a space around a word;ysiw(;;vim
+add square brackets with a space around a word;ysiw[;;vim
+replace word with unnamed register contents;griw;;vim
+replace with register syntax;[count]["x]gr{motion};;vim
+replace 2 words with contents of q register;2"qgrw;;vim
+replace 3 lines with the contents of unnamed register;3grr;;vim
+replace 3 lines with the contents of z register;3"zgrr;;vim
+replace visual selection with q register;{Visual}"qgr;;vim
+copy to system clipboard syntax;cp{motion};;vim
+copy current line to system clipboard;cP;;vim
+copy current word to system clipboard;cpiw;;vim
+copy 3 lines to system clipboard;cp3j;;vim
+paste system clipboard to line below;cv;;vim
+sort lines syntax;gs{motion};;vim
+sort this line and the next 4;gs4j;;vim
+sort contents of bracketed list;gsi(;;vim
+title case syntax;gt{motion};;vim
+title case this line;gT;;vim
+title case inside of quotes;gti";;vim
+display the jumps list;:Jumps;;vim
+jump back to previous jump list location;<c-o>;;vim
+jump back to next jump list location;<c-i>;;vim
+move one split down;<c-j>;;vim
+move one split up;<c-k>;;vim
+move one split left;<c-h>;;vim
+move one split right;<c-l>;;vim
+make a new vertical split;:vsp ~/.zshrc;;vim
+make a new horizontal split;:sp ~/.zshrc;;vim
+make a split 10 lines high;:10sp ~/.zshrc;;vim
+max out the height of the current split;<c-w> _;;vim
+max out the width of the current split;<c-w> |;;vim
+normalise all split sizes;<c-W>=;;vim
+swap top/bottom, left/right splits;<c-w> r;;vim
+close every split but the current one;<c-W> o;;vim
+remove highlighting;<c-l> l;;vim
