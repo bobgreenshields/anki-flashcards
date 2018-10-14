@@ -1,5 +1,5 @@
 Ultisnips complete;tab;;Vim::Ultisnips
-Ultisnips list snippets;<c-tab>;;Vim::Ultisnips
+Ultisnips list snippets;F3;default <c-tab>;Vim::Ultisnips
 Ultisnips jump fwd;<c-j>;;Vim::Ultisnips
 Ultisnips jump backward;<c-k>;;Vim::Ultisnips
 Ultisnips edit snippets;:UltiSnipsEdit;;Vim::Ultisnips
