@@ -3,9 +3,9 @@ list snippets;F3;default <c-tab>;vim::Ultisnips
 jump fwd in snippets;<c-j>;;vim::Ultisnips
 jump backward in snippets;<c-k>;;vim::Ultisnips
 edit snippets;:UltiSnipsEdit;;vim::Ultisnips
-what's the last yank register;0
-what's the last delete register;"
-what's the last search register;/
+what's the last yank register;0;;vim
+what's the last delete register;'"';;vim
+what's the last search register;/;;vim
 change inner word;ciw;;vim
 change inner indentation;cii;;vim
 change inner sentence;cis;;vim
@@ -13,11 +13,10 @@ change inner line;cil;;vim
 change inner ruby block;cir;;vim
 change all ruby block;car;;vim
 change inner paragraph;cip;;vim
-check plugin status;:PlugInstall;;vim::vim-plug
+check plugin status;:PlugStatus;;vim::vim-plug
 install plugins;:PlugInstall;;vim::vim-plug
 update plugins;:PlugUpdate;;vim::vim-plug
 add single quotes around a word;ysiw';;vim
-add double quotes around a word;ysiw";;vim
 add parenthesis around a word;ysiw);;vim
 add parenthesis with a space around a word;ysiw(;;vim
 add square brackets with a space around a word;ysiw[;;vim
@@ -37,7 +36,7 @@ sort this line and the next 4;gs4j;;vim
 sort contents of bracketed list;gsi(;;vim
 title case syntax;gt{motion};;vim
 title case this line;gT;;vim
-title case inside of quotes;gti";;vim
+title case inside of quotes;gti';;vim
 display the jumps list;:Jumps;;vim
 jump back to previous jump list location;<c-o>;;vim
 jump back to next jump list location;<c-i>;;vim
