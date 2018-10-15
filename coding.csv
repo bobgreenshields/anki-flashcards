@@ -77,3 +77,16 @@ insert mode: return to normal mode;esc or <c-[>;;vim
 insert mode: give one normal mode cmd and return to insert;<c-o> normal mode command;;vim
 insert mode: move to middle of screen and continue to insert;<c-o>zz;;vim
 insert mode: paste from a register;<c-r>"x;;vim
+which register contains your last insert;.;;vim
+insert mode: paste last insert;<c-a>;;vim
+complete previous;<c-p>;;vim
+complete next;<c-n>;;vim
+how do you cycle completion suggestions;<c-p> and <c-n>;;vim
+go to tag;<c-]>;;vim
+return from tag jump;<c-t>;;vim
+scroll screen down, cursor static;<c-e>;;vim
+scroll screen up, cursor static;<c-y>;;vim
+complete filenames;<c-x> <c-f>;<c-x> <c-f> again for tab completion;vim
+complete series of words;<c-x> <c-n>;repeat <c-x> <c-n> for more words, also <c-p>;vim
+complete rest of line;<c-x> <c-l>;repeat <c-x> <c-l> for more lines;vim
+complete ruby method after .;<c-x> <c-o>;;vim
