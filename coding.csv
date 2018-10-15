@@ -90,20 +90,18 @@ complete filenames;<c-x> <c-f>;<c-x> <c-f> again for tab completion;vim
 complete series of words;<c-x> <c-n>;repeat <c-x> <c-n> for more words, also <c-p>;vim
 complete rest of line;<c-x> <c-l>;repeat <c-x> <c-l> for more lines;vim
 complete ruby method after .;<c-x> <c-o>;;vim
-set a mark in this file;m[a-z]
-set a mark across files;m[A-Z]
-jump to start of line with mark z;'z
-jump to cursor location with mark z;`z
-jump to position where last change occurred in current buffer
-jump to position in last file edited (when exited Vim)
-jump back (to line in current buffer where jumped from)
-jump back (to position in current buffer where jumped from)
-jump to beginning/end of previously changed or yanked text
-jump to beginning/end of last visual selection
-
-
-Command	Description
+set a mark in this file;m[a-z];;vim
+set a mark across files;m[A-Z];;vim
+jump to start of line with mark z;'z;;vim
+jump to cursor location with mark z;`z;;vim
 jump to next line with a lowercase mark;]';;vim
 jump to previous line with a lowercase mark;[';;vim
 jump to next lowercase mark;]`;;vim
 jump to previous lowercase mark;[`;;vim
+jump to position where last change occurred in current buffer;`.;;vim
+jump to position where last exited current buffer;`";;vim
+jump to position in last file edited (when exited Vim);`0;;vim
+jump back (to line in current buffer where jumped from);'';;vim
+jump back (to position in current buffer where jumped from);``;;vim
+jump to beginning/end of previously changed or yanked text;`[ or `];;vim
+jump to beginning/end of last visual selection;`< or `>;;vim
