@@ -105,3 +105,4 @@ jump back (to line in current buffer where jumped from);'';;vim
 jump back (to position in current buffer where jumped from);``;;vim
 jump to beginning/end of previously changed or yanked text;`[ or `];;vim
 jump to beginning/end of last visual selection;`< or `>;;vim
+edit command line in vim;<c-x> <c-e>;;zsh
